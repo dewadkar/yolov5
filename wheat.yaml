@@ -1,0 +1,5 @@
+train: wheat_data/images/train
+val: wheat_data/images/validation
+nc: 4
+names: ["wh-1","wh-2","wh-3","wh-4"]
+
